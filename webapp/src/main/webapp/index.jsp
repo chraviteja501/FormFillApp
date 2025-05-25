@@ -3,6 +3,10 @@
     <h1>Welcome!! Saidemy DevOps Student Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
+    <be>
+
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
     <label for="email"><b>Email</b></label>
