@@ -41,6 +41,10 @@
     <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
     <br>
 
+    <label for="sun"><b>Sun Name</b></label>
+    <input type="text" placeholder="Sun Name" name="sun" id="sun" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
